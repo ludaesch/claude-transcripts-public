@@ -4,8 +4,7 @@ Public transcripts of selected Claude Code sessions, showcasing development work
 
 ## What's Here
 
-This repository contains HTML transcripts from:
-- **utils** - Development of shell utilities, zsh functions, and productivity tools
+This repository will contain curated HTML transcripts from selected Claude Code sessions. No public transcripts are currently available.
 
 ## Viewing Transcripts
 
