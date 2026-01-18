@@ -13,6 +13,3 @@ Thumbs.db
 *.swp
 *.swo
 *~
-
-# Private transcripts
-private/
