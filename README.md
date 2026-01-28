@@ -4,7 +4,7 @@ Public transcripts of selected Claude Code sessions, showcasing development work
 
 ## What's Here
 
-This repository contains curated HTML transcripts from selected Claude Code sessions. Projects are explicitly designated for public sharing using `.public` marker files in their source directories.
+This repository contains curated HTML transcripts from selected Claude Code sessions. Projects are designated as public in `~/.claude/projects.yaml` (set `public: true`).
 
 ## Viewing Transcripts
 
@@ -14,7 +14,7 @@ Or clone this repository and open `index.html` in your browser.
 
 ## How Projects Become Public
 
-Only projects with a `.public` marker file in their source directory are included here. This ensures intentional, safe sharing of transcripts while keeping all other projects private.
+Only projects marked `public: true` in `~/.claude/projects.yaml` are included here. This ensures intentional, safe sharing of transcripts while keeping all other projects private.
 
 See the main [claude-transcripts](https://github.com/ludaesch/claude-transcripts) repository (private) for the complete archive.
 
@@ -31,4 +31,4 @@ Each project directory contains:
 
 ---
 
-*These are selected public transcripts. Only projects explicitly marked with `.public` are published here.*
+*These are selected public transcripts. Only projects marked `public: true` in `projects.yaml` are published here.*
